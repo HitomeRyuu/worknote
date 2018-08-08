@@ -9,6 +9,10 @@
 
 5.【博客】微博好友相似度假设 http://dataunion.org/7486.html  
 
-6.【论文】图节点排序算法（最少交点,dot算法）Gansner E R, Koutsofios E, North S C, et al. A technique for drawing directed graphs[J]. IEEE Transactions on Software Engineering, 1993, 19(3): 214-230.  
+6.【论文】图节点排序算法（最少交点,dot算法）Gansner E R, Koutsofios E, North S C, et al. A technique for drawing directed graphs[J]. IEEE Transactions on Software Engineering, 1993, 19(3): 214-230.   
+
+n.【笔记】图的遍历、DOT算法、Drools实现、JAVA括号匹配、单链表 in lofter
+
+
 
 
