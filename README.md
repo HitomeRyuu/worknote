@@ -1,4 +1,6 @@
 # worknote
+private notebook during working. If you'r interested, please contect me or copy these as you like.  
+
 1.【博客】公安团伙发现概述 https://blog.csdn.net/u010159842/article/details/80433354  
 
 2.【论文】电子邮件启发的融合聚类方法 http://www.yndxxb.ynu.edu.cn/article/2017/0258-7971-39-2-178.html  
@@ -12,6 +14,9 @@
 6.【论文】图节点排序算法（最少交点,dot算法）Gansner E R, Koutsofios E, North S C, et al. A technique for drawing directed graphs[J]. IEEE Transactions on Software Engineering, 1993, 19(3): 214-230.   
 
 7.【博客】知识图谱向量表示（八篇论文翻译总结） https://www.jiqizhixin.com/articles/2017-11-03-5   
+
+8.【ppt】马尔可夫逻辑网 一阶谓词逻辑推理 https://cs.nju.edu.cn/gaoyang/ai2016/6.pdf  
+
 
 n.【笔记】图的遍历、DOT算法、Drools实现、JAVA括号匹配、单链表 in lofter
 
