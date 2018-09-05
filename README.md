@@ -17,7 +17,10 @@ private notebook during working. If you'r interested, please contect me or copy 
 
 8.【ppt】马尔可夫逻辑网 一阶谓词逻辑推理 https://cs.nju.edu.cn/gaoyang/ai2016/6.pdf  
 
-9.【博客】基于CF模型的不确定性推理 https://blog.csdn.net/qq_31456593/article/details/78623871   
+9.【博客】基于CF模型的不确定性推理 https://blog.csdn.net/qq_31456593/article/details/78623871    
+
+10.【博客】简单的神经网络案例详解（英文） https://iamtrask.github.io/2015/07/12/basic-python-network/    
+
 
 
 n.【笔记】图的遍历、DOT算法、Drools实现、JAVA括号匹配、单链表 in lofter
