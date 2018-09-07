@@ -21,6 +21,7 @@ private notebook during working. If you'r interested, please contect me or copy 
 
 10.【博客】简单的神经网络案例详解（英文） https://iamtrask.github.io/2015/07/12/basic-python-network/    
 
+11.【论文】谢秦川.非法交易犯罪团伙的社会网络分析研究[J].理论研究 ,2014,06.   
 
 
 n.【笔记】图的遍历、DOT算法、Drools实现、JAVA括号匹配、单链表 in lofter
