@@ -29,6 +29,7 @@ https://blog.csdn.net/iteye_2925/article/details/81492005
 
 13.【手册】Drools官方手册英文版 ： https://docs.jboss.org/drools/release/7.11.0.Final/drools-docs/html_single/index.html   
 
+14.【博客】模块度详解：https://blog.csdn.net/wangyibo0201/article/details/52048248   
 
 
 
