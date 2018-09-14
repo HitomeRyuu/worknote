@@ -27,6 +27,9 @@ private notebook during working. If you'r interested, please contect me or copy 
 https://blog.csdn.net/iteye_2925/article/details/81491857  
 https://blog.csdn.net/iteye_2925/article/details/81492005  
 
+13.【手册】Drools官方手册英文版 ： https://docs.jboss.org/drools/release/7.11.0.Final/drools-docs/html_single/index.html   
+
+
 
 
 n.【笔记】图的遍历、DOT算法、Drools实现、JAVA括号匹配、单链表 in lofter
