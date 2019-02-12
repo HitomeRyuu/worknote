@@ -31,6 +31,9 @@ https://blog.csdn.net/iteye_2925/article/details/81492005
 
 14.【博客】模块度详解：https://blog.csdn.net/wangyibo0201/article/details/52048248   
 
+15.【博客】隐🐴模型及维特比算法详解：http://wulc.me/2017/07/14/%E9%9A%90%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%89%E5%A4%A7%E9%97%AE%E9%A2%98%E5%8F%8A%E6%B1%82%E8%A7%A3%E6%96%B9%E6%B3%95/#more  
+
+
 
 
 n.【笔记】图的遍历、DOT算法、Drools实现、JAVA括号匹配、单链表 in lofter
